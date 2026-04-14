@@ -13,9 +13,9 @@
 
     <?php
     // Defines variables
-    $name = "Annabelle Germond";
-    $age = 25;
-    $isStudent = true;
+    $name = "Annabelle Germond"; //string
+    $age = 25; // integer
+    $isStudent = true; // boolean
 
     // User defined function that uses variables
     function createMessage($name,$age) {
